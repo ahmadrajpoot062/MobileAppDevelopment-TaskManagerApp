@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TaskNote</string>
+    <string name="add_task">Add Task</string>
+    <string name="title_description">title</string>
+    <string name="search_bar_description">description</string>
+    <string name="add">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_todo">Add</string>
+    <string name="action_settings">Settings</string>
+    <string name="update">Update</string>
+    <string name="title">Title</string>
+    <string name="desc">Description</string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_todo_title">New Todo</string>
+    <string name="lbl_edit_todo_title">Edit Todo</string>
+    <string name="hint_enter_note">Enter your todo!</string>
+    <string name="about_gdesc"><b>TaskNote</b> is a versatile productivity app designed to help you stay organized with ease. Combining the functionality of a powerful task manager and a seamless note-taking tool, TaskNote lets you handle all your to-dos and thoughts in one place.</string>
+    <string name="about_tdesc"><b>TaskPad:</b> Manage your tasks efficiently with TaskPad. Create, track, and complete tasks with intuitive features that help you stay on top of your daily goals.</string>
+    <string name="about_ndesc"><b>Notepad:</b> Capture your ideas, notes, or reminders effortlessly with the Notepad module. Whether it\'s quick notes or detailed outlines, TaskNote ensures you won’t miss a thing.</string>
+    <string name="about">About</string>
+    <string name="about_title">about</string>
+    <string name="backup_title">backup</string>
+    <string name="recover_title">recover</string>
+    <string name="add_note">Add</string>
+    <string name="underlined_text"><u>Give us feedback!</u></string>
+    <string name="task_due_channel_description">Notification for tasks due</string>
+</resources>

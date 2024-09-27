@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/action_task"
+        android:orderInCategory="100"
+        app:tint="@color/color_Primary"
+        android:title="TaskPad"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_note"
+        android:orderInCategory="100"
+        app:tint="@color/color_Primary"
+        android:title="NotePad"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_backup"
+        android:orderInCategory="100"
+        android:title="Backup"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_recover"
+        android:orderInCategory="100"
+        android:title="Recover"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:title="About"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        android:visibility="gone"
+        app:showAsAction="never" />
+</menu>
